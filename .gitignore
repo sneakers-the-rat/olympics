@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/workspace.xml
+altair-data-0fcbd56e177c491e7a4459e6715f29d5.json
+altair-data-2d639bbf3d9f72c82d61b99d8090a8a1.json
+altair-data*.json
+.DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/olympics.iml
+.idea/vcs.xml
